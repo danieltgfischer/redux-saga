@@ -1,8 +1,8 @@
+import Catalog from './components/Catalog';
+
 function App() {
   return (
-    <div>
-     hello world
-    </div>
+    <Catalog />
   );
 }
 
